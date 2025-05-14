@@ -1,8 +1,8 @@
 # learn-selenium-python
 
-## Goal: To learn automation test using Selenium with Python
+### Goal: To create automation test using Selenium with Python
 
-## Result:
+### Result:
     1. Opens Google Chrome browser
     2. Search for 'selenium for geeksforgeeks'
     3. Click 'Enter' key
